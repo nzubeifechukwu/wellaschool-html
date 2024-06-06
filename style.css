@@ -32,6 +32,14 @@ form li {
   margin-bottom: 24px;
 }
 
+form button {
+  width: 50%;
+  margin: 16px 25% auto;
+  padding: 16px;
+  font-size: 1.1rem;
+  text-transform: uppercase;
+}
+
 input,
 textarea,
 a {
